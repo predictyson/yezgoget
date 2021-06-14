@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React and Typescript**
 
-- 📝 I regularly write articles on [https://velog.io/@yellyjelly](https://velog.io/@yellyjelly)
+- 📝 I regularly write articles on [https://velog.io/@yellyjelly](https://velog.io/@yellyjelly)(Just Started)
 
 - 💬 Ask me about **javascript, mysql, nodejs**
 
