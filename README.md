@@ -8,17 +8,16 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/55784772/121879227-915b8b80-cd47-11eb-9aa4-c14885dcffad.gif"></p>
 
 
-- 🔭 I’m currently working on [SOPT](http://sopt.org/)
 
 - 🌱 I’m currently learning **React and Typescript**
 
-- 📝 I regularly write articles on [https://velog.io/@yellyjelly](https://velog.io/@yellyjelly)(Just Started)
+- 📝 I regularly write articles on [https://velog.io/@yellyjelly](https://velog.io/@yellyjelly)(Just Get Started)
 
 - 💬 Ask me about **javascript, mysql, nodejs**
 
 - 📫 Feel free to reach me on **yejison98@gmail.com**
 
-- ⚡ Fun fact, **I am coffee addicted**
+- ⚡ Fun fact, **I am a coffee addict**
 
 ***
 
