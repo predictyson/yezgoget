@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving)
-
 <h1 align="center">Good to see you, I'm Son</h1>
 <h3 align="center">A ril go-getter developer</h3>
 
