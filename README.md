@@ -1,5 +1,4 @@
 <h1 align="center">Good to see you, I'm Son</h1>
-<h3 align="center">A ril go-getter developer</h3>
 
 
 <p align="center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyezgoget&count_bg=%23FFEBDB&title_bg=%23CBA3A3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com"></p>
