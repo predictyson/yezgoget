@@ -8,8 +8,7 @@
 
 - 🌱 I’m currently learning **React and Typescript**
 
-- 📝 I regularly write articles on [https://velog.io/@yellyjelly](https://velog.io/@yellyjelly)(Just Get Started)
-
+- 📝 I regularly write articles on [https://velog.io/@yezgoget](https://velog.io/@yezgoget)
 - 💬 Ask me about **javascript, mysql, nodejs**
 
 - 📫 Feel free to reach me on **yejison98@gmail.com**
