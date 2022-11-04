@@ -6,11 +6,9 @@
 
 
 
-- 🌱 I’m currently learning **React and Typescript**
+- 🌱 I’m currently learning **React , Typescript, SpringBoot, Java**
 
 - 📝 I regularly write articles on [https://velog.io/@yezgoget](https://velog.io/@yezgoget)
-- 💬 Ask me about **javascript, mysql, nodejs**
-
 - 📫 Feel free to reach me on **yllydev@gmail.com**
 
 - ⚡ Fun fact, **I am a coffee addict**
